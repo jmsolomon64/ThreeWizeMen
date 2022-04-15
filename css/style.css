@@ -1,0 +1,14 @@
+.profilePic {
+    max-width: 200px;
+    max-height: auto;
+    width: 25%;
+    height: 25%;
+}
+
+.name {
+    font-size: 1em;
+}
+
+.description {
+    font-size: 0.75em;
+}
