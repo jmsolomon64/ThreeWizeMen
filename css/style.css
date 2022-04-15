@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    background-image: linear-gradient(white, #484f58, white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#teamPhoto {
+    /* align-items: center; */
+    border-radius: 6px;
+    padding: 4px;
+    max-width: 100vw;
+    height: auto;
+}
